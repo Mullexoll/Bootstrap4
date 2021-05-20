@@ -1,0 +1,64 @@
+.curent-list{
+    font-size: 20px;
+    list-style-type: none;
+}
+.curent span{
+    display: inline-block;
+    padding: 10px;
+    border: 0.5px solid rgb(187, 183, 183);
+    background-color: beige;
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+}
+.curent2 span{
+    display: inline-block;
+    padding: 10px;
+    border: 0.5px solid rgb(187, 183, 183);
+    background-color: rgb(48, 240, 74);
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+}
+.curent3 span{
+    display: inline-block;
+    padding: 10px;
+    border: 0.5px solid rgb(187, 183, 183);
+    background-color: rgb(6, 136, 243);
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+}
+.curent4 span{
+    display: inline-block;
+    padding: 10px;
+    border: 0.5px solid rgb(187, 183, 183);
+    background-color: rgb(245, 83, 204);
+    border-radius: 50%;
+    position: relative;
+    top: 4px;
+}
+#btn-file {
+    height: 38px;
+}
+#btn-file span {
+    position: relative;
+    top: -30px;
+    right: 0px;
+}
+#card-custom{
+    color: #ffffff;
+}
+#bages{
+    background-color: green;
+    border-radius: 40%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.bg-c-rose{
+    background-color: rgb(245, 83, 204);
+}
+.bg-c-green{
+    background-color: rgb(40, 194, 60) !important;
+}

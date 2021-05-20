@@ -1,0 +1,69 @@
+.blockhead:after {
+    color:#4D81BF;
+    border-left: 15px solid;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    display: inline-block;
+    content: '';
+    position: absolute;
+    right: -15px;
+  
+  
+  }
+  .blockhead {
+    background-color:#4D81BF;
+    /*width: 150px; */
+    height: 30px;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+  }
+  .blocktext{
+      color:white;
+      font-weight:bold;
+      font-family:Arial;
+      font-size:11;
+      padding-left: 10px;
+      padding-right: 10px;
+      position: relative;
+      top: 3px;
+  }
+  /* 2 */
+  .blockhead2::before {
+    color:#4D81BF;
+    border-right: 15px solid;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    display: inline-block;
+    content: '';
+    position: absolute;
+    right: 100%;
+  
+  
+  }
+  .blockhead2 {
+    background-color:#4D81BF;
+    /*width: 150px; */
+    height: 30px;
+    display: inline-block;
+    position: relative;
+    top: 5px;
+  }
+  .img span{
+      font-size: 25px;
+      font-weight: 700;
+  }
+  .img img{
+      position: relative;
+      top: -5px;
+  }
+  .revard-item2{
+      position: relative;
+      left: 35px;
+  }
+  .btn-c{
+      position: relative;
+      top: 5px;
+      background-color: rgb(197, 197, 197);
+  }
+  
